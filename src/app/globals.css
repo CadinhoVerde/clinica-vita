@@ -4,6 +4,10 @@ html, body {
   overflow-x: hidden;
 }
 
+html {
+  scroll-behavior: smooth;
+}
+
 :root {
   --background: #ffffff;
   --foreground: #171717;
@@ -45,3 +49,4 @@ body {
   -ms-overflow-style: none;
   scrollbar-width: none;
 }
+

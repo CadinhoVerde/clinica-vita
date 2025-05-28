@@ -24,7 +24,7 @@ export default function Agendamento() {
   };
 
   return (
-    <section id="agendamento" className="py-20 bg-teal-600 text-white">
+    <section id="agendamento" className="pt-20 pb-28 bg-teal-600 text-white">
       <div className="max-w-2xl mx-auto px-4">
         <div className="bg-white p-8 rounded-2xl shadow-lg text-gray-800">
           <h3 className="text-3xl font-bold text-center text-teal-700 mb-2">
